@@ -26,9 +26,13 @@
 
 
     ~ Installation
-
+      ```bash
+      pip install when-changed
+      ```
+      Or
+      ```bash
       pip install https://github.com/joh/when-changed/archive/master.zip
-
+      ```
 
     ~ Usage
 
